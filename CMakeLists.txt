@@ -3,4 +3,4 @@ project(IShell)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(IShell main.cpp)
+add_executable(IShell main.cpp utils.hpp)
